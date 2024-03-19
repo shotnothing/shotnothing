@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Jing Wen 👋
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shotnothing/shotnothing/output/github-contribution-grid-snake-dark.svg">
